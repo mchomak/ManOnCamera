@@ -1,0 +1,6 @@
+path: C:\Users\OKS5-18\PycharmProjects\MenOnCamera\DataSet
+train: C:\Users\OKS5-18\PycharmProjects\MenOnCamera\DataSet\images\train
+val: C:\Users\OKS5-18\PycharmProjects\MenOnCamera\DataSet\images\train
+
+names:
+  0: man
